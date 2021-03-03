@@ -81,7 +81,23 @@
                             <!-- shop-top-bar end -->
                         </div>
                     </div>
-
+                    <div class="form-group"> 
+                        <div class="row"> 
+                            <div class="col-md-6 col-sm-6 col-xs-8"></div> 
+                            <div class="col-md-6 col-sm-6 col-xs-4"> 
+                                <div align="right"> 
+                                    <span data-toggle="tooltip" data-placement="top" title="" data-original-title="Untuk melakukan pencarian anda bisa memasukkan nama Kelurahan, Kecamatan, Provinsi atau Kode Pos. cth: Pulo Brayan, Medan Barat, Sumatera Utara / 20116">
+                                        <i class="fa fa-question-circle"></i> Need Help</span>
+                                        <div class="tooltip fade top in" style="top: -158px; left: 32.8672px; display: block;">
+                                            <div class="tooltip-arrow" style="left: 61.9565%;">
+                                                
+                                            </div>
+                                            <div class="tooltip-inner">
+                                            Untuk melakukan pencarian anda bisa memasukkan nama Kelurahan, Kecamatan, Provinsi atau Kode Pos. cth: Pulo Brayan, Medan Barat, Sumatera Utara / 20116</div></div> </div>
+                                            
+                                        </div> 
+                                    </div> 
+                                </div>
                     <div id="divSearchCoverage" style="text-align:center;">
                       <img src="https://s3-id-jkt-1.kilatstorage.id/ebunga/ebunga-cdn/figure/search_coverage.png">
                       <br/>

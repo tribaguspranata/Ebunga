@@ -64,10 +64,10 @@
                                     <div class="col-lg-4 col-md-3">
                                         <div class="social-top">
                                             <ul>
-                                                <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-                                                <li><a href="#"><i class="ion-social-twitter"></i></a></li>
-                                                <li><a href="#"><i class="ion-social-tumblr"></i></a></li>
-                                                <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+                                                <li><a href="https://www.facebook.com"><i class="ion-social-facebook"></i></a></li>
+                                                <li><a href="https://twitter.com"><i class="ion-social-twitter"></i></a></li>
+                                                <li><a href="https://www.instagram.com"><i class="ion-social-instagram"></i></a></li>
+                                                <li><a href="https://youtube.com/"><i class="ion-social-youtube"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>

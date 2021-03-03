@@ -7,7 +7,7 @@
                                 <div class="footer-logo">
                                     <a href="index.html"><img src="https://s3-id-jkt-1.kilatstorage.id/ebunga/ebunga-cdn/img-utility/ebunga-logo-small.png" alt=""></a>
                                 </div>
-                                <p>long established fact that a reader will be distracted by the readable content by the readable content established fact that</p>
+                                <p>Long established fact that a reader will be distracted by the readable content by the readable content established fact that</p>
                                 <div class="newsletter-footer">
                                     <input type="text" placeholder="You Email">
                                     <div class="subscribe-button">
@@ -43,11 +43,12 @@
                                     </li>
                                     <li>
                                         <label>Address</label>
-                                        34/5 evergreen road, concord city <br> New work, United States
+                                        34/5 Evergreen road, Concord city <br> New york, United States
                             </li>
                                 </ul>
                             </div>
                         </div>
+                       
                         <div class="col-lg-3 col-md-6">
                             <div class="widget-footer mt-30">
                                 <h6 class="title-widget">LATEST BLOG</h6>
@@ -77,7 +78,23 @@
                                                 </div>
                                             </div>
                                         </div>
+
                                     </li>
+                                </ul>
+                            </div>
+                        </div>
+                         <div class="col-lg-12 text-center">
+                            <div class="widget-footer mt-30">
+                                <ul class="footer-contact">
+                                    <li>
+                                        <label>Get The App</label>
+                                        <a href="https://play.google.com/">
+
+                                            <img src="https://www.ebunga.com/assets/images/media/46.png">
+
+                                        </a>
+                                    </li>
+                                   
                                 </ul>
                             </div>
                         </div>
@@ -89,7 +106,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="copy-right-text text-center">
-                                <p>Copyright &copy; <a href="#">Fultala</a> 2019. All Right Reserved</p>
+                                <p>Copyright &copy; <a href="#">Fultala</a> <?php echo  date('Y'); ?>. All Right Reserved</p>
                             </div>
                         </div>
                     </div>

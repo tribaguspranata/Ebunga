@@ -57,7 +57,7 @@
 
                 <div class="section-title text-center">
                     <h2><span>Latest</span> Blog</h2>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered lebmid alteration in some ledmid form</p>
+                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered ledmid alteration in some ledmid form</p>
                 </div>
             </div>
         </div>
@@ -93,7 +93,7 @@
                     </div>
 
                     <div class="blog-content">
-                        <h4><a href="#">Available but majority lorem Ipsum </a></h4>
+                        <h4><a href="#">Available but majority lorem ipsum </a></h4>
                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered in some ledmid form There are many majority have suffered </p>
                         <div class="read-more">
                             <a href="#">READ MORE</a>

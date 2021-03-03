@@ -5,7 +5,7 @@
 
         <!-- shop-sidebar start -->
         <div class="shop-sidebar mb-30">
-            <h4 class="title">CATEGORIES</h4>
+            <h4 class="title">CATEGORY</h4>
             <ul>
               @foreach($kategori as $kat)
               @php
