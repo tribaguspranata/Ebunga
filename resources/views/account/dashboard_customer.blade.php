@@ -43,7 +43,7 @@
                                         <div class="d-single-info">
                                             <div class="card card-hero" style="margin-bottom:-12px;">
                                                 <div class="card-header" style="text-align: center;">
-                                                    <h4 style="color:#dff9fb;">1400</h4>
+                                                    <h4 style="color:#dff9fb;">3000</h4>
                                                     <strong>Total E-Cash</strong>
                                                 </div>
                                             </div>
@@ -70,7 +70,7 @@
                                 </div>
                                 <div class="col-md-12 col-lg-10">
                                     <!-- Tab panes -->
-                                    
+
                                     <div class="tab-content dashboard-content">
                                         <div style="font-weight:300px;font-family:Poppins;font-size:14px;line-height:20px;display:none;" id="loaderPage">
                                             <img src="{{ asset('ladun/ebunga_asset/others/loading.svg') }}" style="width: 40px;"> loading page ...

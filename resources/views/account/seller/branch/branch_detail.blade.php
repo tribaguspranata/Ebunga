@@ -32,7 +32,7 @@
                             <h4>Orders</h4>
                         </div>
                         <div class="card-body">
-                            42
+                            24
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
                 <div id="maps" style="width:100%px;height:400px;"></div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-6">
-                
+
                 <div class="form-group">
                     <label>List Coverage Area</label>
                     <table class="table" id="tblListCoverage">
@@ -140,7 +140,7 @@
                         </thead>
                         <tbody>
                             @foreach($dataCoverage as $area)
-                            @php 
+                            @php
                                 $kdArea = $area -> kd_area;
                                 $dataKelurahan = DB::table('tbl_kelurahan') -> where('id_kel', $kdArea) -> first();
                                 $namaKelurahan = $dataKelurahan -> nama;

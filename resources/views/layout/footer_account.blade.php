@@ -35,7 +35,7 @@
                                 <ul class="footer-contact">
                                     <li>
                                         <label>Phone</label>
-                                        <a href="#">+88013678456313</a>
+                                        <a href="#">(+62) 821-6751-1111</a>
                                     </li>
                                     <li>
                                         <label>Email</label>
@@ -89,7 +89,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="copy-right-text text-center">
-                                    <span>Copyright</span><i class="far fa-copyright"></i><span class="engo">2020 PT Ebunga Sukses Makmur</span>
+                                    <span>Copyright</span><i class="far fa-copyright"></i><span class="engo"> 2021 PT. Ebunga Sukses Makmur</span>
                             </div>
                         </div>
                     </div>
@@ -140,18 +140,18 @@
     <script src="assets/js/vendor/vendor.min.js"></script>
     <script src="assets/js/plugins/plugins.min.js"></script>
     -->
-    
+
     <!-- Main JS -->
     <script>
         const server = "{{ url('') }}/";
         const pathEbunga = "{{ env('MAPS_API_KEY') }}";
-        
+
     </script>
     <script src="{{ asset('ladun/account_asset/js/main.js') }}"></script>
     @if($page == 'customerDashboard')
-    <script src="{{ asset('ladun/account_asset/js_custom/dashboard_customer.js') }}"></script> 
+    <script src="{{ asset('ladun/account_asset/js_custom/dashboard_customer.js') }}"></script>
     @else
-    <script src="{{ asset('ladun/account_asset/js_custom/dashboard_seller.js') }}"></script> 
+    <script src="{{ asset('ladun/account_asset/js_custom/dashboard_seller.js') }}"></script>
     @endif
 
 </body>

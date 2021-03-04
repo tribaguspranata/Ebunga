@@ -28,7 +28,7 @@
                     <h4>Value Orders</h4>
                 </div>
                 <div class="card-body">
-                    42
+                    24
                 </div>
             </div>
         </div>

@@ -43,7 +43,7 @@
                                         <div class="d-single-info">
                                             <div class="card card-hero" style="margin-bottom:-12px;">
                                                 <div class="card-header" style="text-align: center;">
-                                                    <h4 style="color:#dff9fb;">1400</h4>
+                                                    <h4 style="color:#dff9fb;">3000</h4>
                                                     <strong>Total E-Cash</strong>
                                                 </div>
                                             </div>

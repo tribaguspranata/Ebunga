@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    
+
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>{{ $pageTitle }} - Ebunga.co.id</title>
@@ -43,7 +43,7 @@
     <link rel="stylesheet" href="https://demo.getstisla.com/assets/css/style.css">
     <link rel="stylesheet" href="{{ asset('ladun/account_asset/css/style.css') }}">
     <link rel="stylesheet" href="https://demo.getstisla.com/assets/css/components.css">
-    
+
     <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
     <!--<link rel="stylesheet" href="assets/css/style.min.css">-->
 
@@ -65,18 +65,18 @@
                                     <div class="col-lg-4 col-md-3">
                                         <div class="social-top">
                                             <ul>
-                                                <li><a href="#"><i class="ion-social-facebook"></i></a></li>
-                                                <li><a href="#"><i class="ion-social-twitter"></i></a></li>
-                                                <li><a href="#"><i class="ion-social-tumblr"></i></a></li>
-                                                <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+                                                <li><a href="https://www.facebook.com"><i class="ion-social-facebook"></i></a></li>
+                                                <li><a href="https://twitter.com"><i class="ion-social-twitter"></i></a></li>
+                                                <li><a href="https://www.instagram.com"><i class="ion-social-instagram"></i></a></li>
+                                                <li><a href="https://youtube.com/"><i class="ion-social-youtube"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="col-lg-8 col-md-9">
                                         <div class="top-info-wrap text-right">
                                             <ul class="top-info">
-                                                <li>Mon - Fri : 9am to 5pm </li>
-                                                <li><a href="#">+88012345678</a></li>
+                                                <li>Mon - Sat : 9am to 5pm </li>
+                                                <li><a href="https://api.whatsapp.com/send?phone=6282167511111">(+62) 821-6751-1111</a></li>
                                                 <li><a href="#">hi@ebunga.co.id</a></li>
                                             </ul>
                                         </div>
